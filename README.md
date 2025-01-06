@@ -39,7 +39,6 @@ For testing, I used Postman to verify the functionality of all API endpoints. Th
 
 While the Task Manager API fulfills its primary purpose, I considered potential enhancements for the future. Adding authentication and authorization (e.g., using JWT tokens) would make the system more secure. Pagination could be introduced to handle large datasets efficiently, and additional error-handling mechanisms could improve user feedback further. Writing comprehensive unit and integration tests would also enhance the reliability of the code.
 
-In summary, this project was built with a focus on simplicity, modularity, and scalability. It provides a robust foundation for managing users and tasks while leaving room for future improvements.
 
 
 
